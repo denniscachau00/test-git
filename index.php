@@ -1,2 +1,2 @@
 <?php
-echo 'Hello world';
+echo 'Good morning Vietnam';
